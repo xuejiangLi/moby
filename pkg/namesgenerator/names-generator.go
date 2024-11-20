@@ -275,6 +275,9 @@ var (
 		// Jane Colden - American botanist widely considered the first female American botanist - https://en.wikipedia.org/wiki/Jane_Colden
 		"colden",
 
+		// Confucius - Chinese philosopher and educator, founded Confucianism, emphasizing moral values, social harmony, and proper conduct. - https://en.wikipedia.org/wiki/Confucius
+		"confucius",
+
 		// Gerty Theresa Cori - American biochemist who became the third woman—and first American woman—to win a Nobel Prize in science, and the first woman to be awarded the Nobel Prize in Physiology or Medicine. Cori was born in Prague. https://en.wikipedia.org/wiki/Gerty_Cori
 		"cori",
 
@@ -550,6 +553,9 @@ var (
 		// Barbara Liskov - co-developed the Liskov substitution principle. Liskov was also the winner of the Turing Prize in 2008. - https://en.wikipedia.org/wiki/Barbara_Liskov
 		"liskov",
 
+		// Laozi - Chinese philosopher and writer, the author of the Tao Te Ching and the founder of philosophical Taoism - https://en.wikipedia.org/wiki/Laozi
+		"laozi",
+		
 		// Ada Lovelace invented the first algorithm. https://en.wikipedia.org/wiki/Ada_Lovelace (thanks James Turnbull)
 		"lovelace",
 
